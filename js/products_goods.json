@@ -1,0 +1,358 @@
+[
+{
+  "GoodID": "0",
+  "p_number":"aquahealth",
+  "GoodCon":[
+    {
+      "GoodName": "全戶磁浮碳晶淨水器",
+      "GoodSet": "AQUAHEALTH",
+      "Img": [
+          "img/pro_goods/goods/aquahealth/goods_01.jpg",
+          "img/pro_goods/goods/aquahealth/goods_02.jpg",
+          "img/pro_goods/goods/aquahealth/goods_03.jpg"
+      ],
+      "BuyAddr": "#1235",
+      "Compare": "img/pro_goods/aquahealth.jpg",
+      "CtherSet": [
+        {
+          "SetID": "0",
+          "SetName": "aquahealth",
+          "SetImg": "img/pro_goods/goods/aquahealth.png"
+        }
+      ],
+      "GoodHtml":"js/products_html/aquahealth.html"
+    }
+  ]
+}
+,{
+  "GoodID": "1",
+  "p_number":"x880",
+  "GoodCon":[
+    {
+      "GoodName": "X880 - AQUALUXE",
+      "GoodSet": "X系列 淨水器",
+      "Img": [
+          "img/pro_goods/goods/x880/goods_01.jpg",
+          "img/pro_goods/goods/x880/goods_02.jpg",
+          "img/pro_goods/goods/x880/goods_03.jpg",
+          "img/pro_goods/goods/x880/goods_04.jpg"
+      ],
+      "BuyAddr": "#",
+      "Compare": "img/pro_goods/x880.jpg",
+      "CtherSet": [
+        {
+          "SetID": "1",
+          "SetName": "x880",
+          "SetImg": "img/pro_goods/goods/x880.png"
+        }
+      ],
+      "GoodHtml":"js/products_html/x880.html"
+    }
+  ]
+}
+,{
+  "GoodID": "2",
+  "p_number":"w660",
+  "GoodCon":[
+    {
+      "GoodName": "尊爵款淨水器 - 進階版",
+      "GoodSet": "Luxury Master",
+      "Img": [
+          "img/pro_goods/goods/w660/goods_01.jpg",
+          "img/pro_goods/goods/w660/goods_02.jpg",
+          "img/pro_goods/goods/w660/goods_03.jpg",
+          "img/pro_goods/goods/w660/goods_04.jpg",
+          "img/pro_goods/goods/w660/goods_05.jpg"
+      ],
+      "BuyAddr": "#",
+      "Compare": "img/pro_goods/w660.jpg",
+      "CtherSet": [
+        {
+          "SetID": "2",
+          "SetName": "w660",
+          "SetImg": "img/pro_goods/goods/w660.png"
+        },
+        {
+          "SetID": "3",
+          "SetName": "w620",
+          "SetImg": "img/pro_goods/goods/w620.png"
+        },
+        {
+          "SetID": "4",
+          "SetName": "w360",
+          "SetImg": "img/pro_goods/goods/w360.png"
+        },
+        {
+          "SetID": "5",
+          "SetName": "w320",
+          "SetImg": "img/pro_goods/goods/w320.png"
+        }
+      ],
+      "GoodHtml":"js/products_html/w660.html"
+    }
+  ]
+}
+,{
+  "GoodID": "3",
+  "p_number":"w620",
+  "GoodCon":[
+    {
+      "GoodName": "尊爵款淨水器 - 標準板",
+      "GoodSet": "Luxury Master",
+      "Img": [
+          "img/pro_goods/goods/w620/goods_01.jpg",
+          "img/pro_goods/goods/w620/goods_02.jpg",
+          "img/pro_goods/goods/w620/goods_03.jpg",
+          "img/pro_goods/goods/w620/goods_04.jpg",
+          "img/pro_goods/goods/w620/goods_05.jpg"
+      ],
+      "BuyAddr": "#",
+      "Compare": "img/pro_goods/w620.jpg",
+      "CtherSet": [
+        {
+          "SetID": "2",
+          "SetName": "w660",
+          "SetImg": "img/pro_goods/goods/w660.png"
+        },
+        {
+          "SetID": "3",
+          "SetName": "w620",
+          "SetImg": "img/pro_goods/goods/w620.png"
+        },
+        {
+          "SetID": "4",
+          "SetName": "w360",
+          "SetImg": "img/pro_goods/goods/w360.png"
+        },
+        {
+          "SetID": "5",
+          "SetName": "w320",
+          "SetImg": "img/pro_goods/goods/w320.png"
+        }
+      ],
+      "GoodHtml":"js/products_html/w620.html"
+    }
+  ]
+}
+,{
+  "GoodID": "4",
+  "p_number":"w360",
+  "GoodCon":[
+    {
+      "GoodName": "豪華款淨水器 - 進階板",
+      "GoodSet": "Urban Deluxe",
+      "Img": [
+          "img/pro_goods/goods/w360/goods_01.jpg",
+          "img/pro_goods/goods/w360/goods_02.jpg",
+          "img/pro_goods/goods/w360/goods_03.jpg",
+          "img/pro_goods/goods/w360/goods_04.jpg",
+          "img/pro_goods/goods/w360/goods_05.jpg"
+      ],
+      "BuyAddr": "#",
+      "Compare": "img/pro_goods/w360.jpg",
+      "CtherSet": [
+        {
+          "SetID": "2",
+          "SetName": "w660",
+          "SetImg": "img/pro_goods/goods/w660.png"
+        },
+        {
+          "SetID": "3",
+          "SetName": "w620",
+          "SetImg": "img/pro_goods/goods/w620.png"
+        },
+        {
+          "SetID": "4",
+          "SetName": "w360",
+          "SetImg": "img/pro_goods/goods/w360.png"
+        },
+        {
+          "SetID": "5",
+          "SetName": "w320",
+          "SetImg": "img/pro_goods/goods/w320.png"
+        }
+      ],
+      "GoodHtml":"js/products_html/w360.html"
+    }
+  ]
+}
+,{
+  "GoodID": "5",
+  "p_number":"w320",
+  "GoodCon":[
+    {
+      "GoodName": "豪華款淨水器 - 標準板",
+      "GoodSet": "Urban Deluxe",
+      "Img": [
+          "img/pro_goods/goods/w320/goods_01.jpg",
+          "img/pro_goods/goods/w320/goods_02.jpg",
+          "img/pro_goods/goods/w320/goods_03.jpg",
+          "img/pro_goods/goods/w320/goods_04.jpg",
+          "img/pro_goods/goods/w320/goods_05.jpg"
+      ],
+      "BuyAddr": "#",
+      "Compare": "img/pro_goods/w320.jpg",
+      "CtherSet": [
+        {
+          "SetID": "2",
+          "SetName": "w660",
+          "SetImg": "img/pro_goods/goods/w660.png"
+        },
+        {
+          "SetID": "3",
+          "SetName": "w620",
+          "SetImg": "img/pro_goods/goods/w620.png"
+        },
+        {
+          "SetID": "4",
+          "SetName": "w360",
+          "SetImg": "img/pro_goods/goods/w360.png"
+        },
+        {
+          "SetID": "5",
+          "SetName": "w320",
+          "SetImg": "img/pro_goods/goods/w320.png"
+        }
+      ],
+      "GoodHtml":"js/products_html/w320.html"
+    }
+  ]
+}
+,{
+  "GoodID": "6",
+  "p_number":"w160",
+  "GoodCon":[
+    {
+      "GoodName": "豪華快接款淨水器 - 進階板",
+      "GoodSet": "Elegant Simplicity",
+      "Img": [
+          "img/pro_goods/goods/w160/goods_01.jpg",
+          "img/pro_goods/goods/w160/goods_02.jpg",
+          "img/pro_goods/goods/w160/goods_03.jpg",
+          "img/pro_goods/goods/w160/goods_04.jpg",
+          "img/pro_goods/goods/w160/goods_05.jpg"
+      ],
+      "BuyAddr": "#",
+      "Compare": "img/pro_goods/w160.jpg",
+      "CtherSet": [
+        {
+          "SetID": "6",
+          "SetName": "w160",
+          "SetImg": "img/pro_goods/goods/w160.png"
+        },
+        {
+          "SetID": "7",
+          "SetName": "w120",
+          "SetImg": "img/pro_goods/goods/w120.png"
+        }
+      ],
+      "GoodHtml":"js/products_html/w160.html"
+    }
+  ]
+}
+,{
+  "GoodID": "7",
+  "p_number":"w120",
+  "GoodCon":[
+    {
+      "GoodName": "豪華快接款淨水器 - 標準板",
+      "GoodSet": "Elegant Simplicity",
+      "Img": [
+          "img/pro_goods/goods/w120/goods_01.jpg",
+          "img/pro_goods/goods/w120/goods_02.jpg",
+          "img/pro_goods/goods/w120/goods_03.jpg",
+          "img/pro_goods/goods/w120/goods_04.jpg",
+          "img/pro_goods/goods/w160/goods_05.jpg"
+      ],
+      "BuyAddr": "#",
+      "Compare": "img/pro_goods/w120.jpg",
+      "CtherSet": [
+        {
+          "SetID": "6",
+          "SetName": "w160",
+          "SetImg": "img/pro_goods/goods/w160.png"
+        },
+        {
+          "SetID": "7",
+          "SetName": "w120",
+          "SetImg": "img/pro_goods/goods/w120.png"
+        }
+      ],
+      "GoodHtml":"js/products_html/w120.html"
+    }
+  ]
+}
+,{
+  "GoodID": "8",
+  "p_number": "biostat",
+  "GoodCon": [{
+    "GoodName": "電晶礦物活水器",
+    "GoodSet": "活水器",
+    "Img": [],
+    "BuyAddr": "#",
+    "Compare": "img/pro_goods/h_biostat.jpg",
+    "CtherSet": [{
+      "SetID": "9",
+      "SetName": "JPF-ATP 噴引型微淨器",
+      "SetImg": "img/pro_goods/goods/h_microfilter.png"
+    }, {
+      "SetID": "10",
+      "SetName": "JPM 穩壓噴引型微淨器",
+      "SetImg": "img/pro_goods/goods/h_mic_jpm.png"
+    }],
+    "GoodHtml": "js/products_html/h_biostat.html"
+  }]
+}, {
+  "GoodID": "9",
+  "p_number": "JPF-ATP",
+  "GoodCon": [{
+    "GoodName": "JUDO-Microfilter 噴引型微淨器",
+    "GoodSet": "微淨器",
+    "Img": [
+      "img/pro_goods/goods/h_microfilter/goods_01.jpg",
+      "img/pro_goods/goods/h_microfilter/goods_02.jpg",
+      "img/pro_goods/goods/h_microfilter/goods_03.jpg",
+      "img/pro_goods/goods/h_microfilter/goods_04.jpg"
+    ],
+    "BuyAddr": "#",
+    "Compare": "img/pro_goods/h_microfilter.jpg",
+    "CtherSet": [{
+      "SetID": "8",
+      "SetName": "電晶礦物活水器",
+      "SetImg": "img/pro_goods/goods/h_biostat.png"
+    }, {
+      "SetID": "10",
+      "SetName": "JPM 噴引型微淨器",
+      "SetImg": "img/pro_goods/goods/h_mic_jpm.png"
+    }],
+    "GoodHtml": "js/products_html/h_microfilter.html"
+  }]
+}
+,{
+  "GoodID": "10",
+  "p_number": "JPM",
+  "GoodCon": [{
+    "GoodName": "JUDO-Microfilter 穩壓噴引型微淨器",
+    "GoodSet": "穩壓微淨器",
+    "Img": [
+      "img/pro_goods/goods/h_mic_jpm/goods_01.jpg",
+      "img/pro_goods/goods/h_mic_jpm/goods_02.jpg",
+      "img/pro_goods/goods/h_mic_jpm/goods_03.jpg",
+      "img/pro_goods/goods/h_mic_jpm/goods_04.jpg",
+      "img/pro_goods/goods/h_mic_jpm/goods_05.jpg"
+    ],
+    "BuyAddr": "#",
+    "Compare": "img/pro_goods/h_mic_jpm.jpg",
+    "CtherSet": [{
+      "SetID": "8",
+      "SetName": "電晶礦物活水器",
+      "SetImg": "img/pro_goods/goods/h_biostat.png"
+    }, {
+      "SetID": "9",
+      "SetName": "JPF-ATP 噴引型微淨器",
+      "SetImg": "img/pro_goods/goods/w120.png"
+    }],
+    "GoodHtml": "js/products_html/h_mic_jpm.html"
+  }]
+}
+]
