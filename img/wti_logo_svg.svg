@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- <?xml-stylesheet type="text/css" href="css/svg.css"?> -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg id="obturateur3" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" width="200" height="200"  xmlns:xlink="http://www.w3.org/1999/xlink">
+<style type="text/css" >
+
+#a05{-webkit-animation:godwon 1.5s linear infinite;-moz-animation:godwon 1.5s linear infinite;animation:godwon 1.5s linear infinite;opacity:0}#a06{-webkit-animation:godwon 2s 1s linear infinite;-moz-animation:godwon 2s 1s linear infinite;animation:godwon 2s 1s linear infinite;opacity:0}#a07{-webkit-animation:godwon 1.8s 0.4s linear infinite;-moz-animation:godwon 1.8s 0.4s linear infinite;animation:godwon 1.8s 0.4s linear infinite;opacity:0}@-webkit-keyframes godwon{0%{-webkit-transform:scaleY(1.2) translate(0px,-150px) rotate(0deg);opacity:1}50%{-webkit-transform:scaleY(1) translate(0px,0px) rotate(0deg);opacity:0.6}100%{-webkit-transform:scaleY(0.8) translate(0px,100px) rotate(0deg);opacity:0}}@-moz-keyframes godwon{0%{-moz-transform:scaleY(1.2) translate(0px,-150px) rotate(0deg);opacity:1}50%{-moz-transform:scaleY(1) translate(0px,0px) rotate(0deg);opacity:0.6}100%{-moz-transform:scaleY(0.8) translate(0px,100px) rotate(0deg);opacity:0}}@keyframes godwon{0%{-webkit-transform:scaleY(1.2) translate(0px,-150px) rotate(0deg);-moz-transform:scaleY(1.2) translate(0px,-150px) rotate(0deg);-ms-transform:scaleY(1.2) translate(0px,-150px) rotate(0deg);-o-transform:scaleY(1.2) translate(0px,-150px) rotate(0deg);transform:scaleY(1.2) translate(0px,-150px) rotate(0deg);opacity:1}50%{-webkit-transform:scaleY(1) translate(0px,0px) rotate(0deg);-moz-transform:scaleY(1) translate(0px,0px) rotate(0deg);-ms-transform:scaleY(1) translate(0px,0px) rotate(0deg);-o-transform:scaleY(1) translate(0px,0px) rotate(0deg);transform:scaleY(1) translate(0px,0px) rotate(0deg);opacity:0.6}100%{-webkit-transform:scaleY(0.8) translate(0px,100px) rotate(0deg);-moz-transform:scaleY(0.8) translate(0px,100px) rotate(0deg);-ms-transform:scaleY(0.8) translate(0px,100px) rotate(0deg);-o-transform:scaleY(0.8) translate(0px,100px) rotate(0deg);transform:scaleY(0.8) translate(0px,100px) rotate(0deg);opacity:0}}
+
+</style>
+
+	<g fill="none" stroke="#FFFFFF" stroke-width="1">
+		<path d="M102.266,52.638c0,0-10.984,29.296-32.466,49.802
+			c0,0-31.654,33.098-2.473,69.1c0,0,12.232,15.828,36.324,15.828c24.076,0,34.99-15.828,34.99-15.828s31.063-35.585-5.701-71.381
+			C132.939,100.158,109.34,76.068,102.266,52.638z"/>
+		<path d="M66.387,133.344c0,0,7.4,5.114,16.832-0.085
+			c0,0,10.122-6.674,22.65,3.984c0,0-10.467-3.916-17.768,0.646C88.102,137.889,74.958,145.606,66.387,133.344z"/>
+		<path d="M105.547,156.818
+			c-15.183-6.578-26.966-1.088-26.966-1.088c4.366-3.724,7.916-6.867,11.757-8.226c10.502-3.949,20.667,2.133,20.667,2.133
+			c18.057,7.913,27.273-0.396,27.273-0.396C128.33,164.255,112.078,159.652,105.547,156.818z"/>
+		<path d="M107.896,171.84
+			c-9.394-6.223-20.728-1.884-20.728-1.884c12.626-10.525,22.685-3.762,22.685-3.762c11.24,5.873,20.016-0.899,20.016-0.899
+			C120.375,177.41,109.318,172.788,107.896,171.84z"/>
+
+		<g>
+			<path id="a05" d="M184.937,75.094c0,0-7.885-8.047-10.248-15.874
+				c0,0-3.669,9.786-10.846,16.637c0,0-10.574,11.057-0.825,23.083c0,0,4.086,5.288,12.133,5.288c8.044,0,11.689-5.288,11.689-5.288
+				S197.218,87.053,184.937,75.094z"/>
+
+			<!-- <animateTransform attributeName="transform" type="scale" from="1 1.25" to="1 1" begin="0s" dur="1.55s" repeatCount="indefinite" additive="sum"/>
+			<animateTransform attributeName="transform" type="translate" from="0 -60" to="0 100" begin="0s" dur="1.55s" repeatCount="indefinite" additive="sum"/>
+			<animate xlink:href="#a05" attributeName="opacity" values="1;0" dur="1.55s" repeatCount="indefinite" /> -->
+
+		</g>
+		<g>
+
+			<path id="a06" d="M29.335,77.882c0,0-1.491,3.977-4.407,6.761
+				c0,0-4.297,4.493-0.335,9.381c0,0,1.661,2.149,4.931,2.149c3.269,0,4.75-2.149,4.75-2.149s4.218-4.831-0.774-9.691
+				C33.5,84.333,30.296,81.063,29.335,77.882z"/>
+
+			<!-- <animateTransform attributeName="transform" type="scale" from="1 1.25" to="1 1" begin="0s" dur="2.35s" repeatCount="indefinite" additive="sum"/>
+			<animateTransform attributeName="transform" type="translate" from="0 -60" to="0 120" begin="0s" dur="2.35s" repeatCount="indefinite" additive="sum"/>
+			<animate xlink:href="#a06" attributeName="opacity" values="1;0" dur="2.35s" repeatCount="indefinite" /> -->
+
+		</g>
+		<g>
+			<path id="a07" d="M59.546,15.925c0,0-2.388,6.371-7.059,10.83
+				c0,0-6.884,7.197-0.538,15.027c0,0,2.66,3.442,7.898,3.442c5.237,0,7.609-3.442,7.609-3.442s6.756-7.739-1.24-15.523
+				C66.217,26.258,61.085,21.02,59.546,15.925z"/>
+
+			<!-- <animateTransform attributeName="transform" type="scale" from="1 1.25" to="1 1" begin="0s" dur="2s" repeatCount="indefinite" additive="sum"/>
+			<animateTransform attributeName="transform" type="translate" from="0 -30" to="0 120" begin="0s" dur="2s" repeatCount="indefinite" additive="sum"/>
+			<animate xlink:href="#a07" attributeName="opacity" values="1;0" dur="2s" repeatCount="indefinite" /> -->
+			</g>
+
+	</g>
+
+</svg>
+
+
